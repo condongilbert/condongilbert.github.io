@@ -10,9 +10,10 @@ html {
 }
 
 body {
+  background-image: url('../assets/images/5651978.png');/* Replace with your pattern image path */
+  color: #333; /* Set text color */
   margin: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: Arial, sans-serif;
 }
 
 
